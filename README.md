@@ -1,2 +1,2 @@
 # Ecoleta-web
-Repository for studies in react
+Repository for learning in react
